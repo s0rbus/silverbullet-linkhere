@@ -18,7 +18,7 @@ Then go to the page where you want to insert the link and run the command "Inser
 Open (`cmd+k`) your `PLUGS` note in SilverBullet and add this plug to the list:
 
 ```yaml
-- https://github.com/s0rbus/silverbullet-linkhere/releases/download/v0.1/silverbullet-linkhere.plug.json
+- https://github.com/s0rbus/silverbullet-linkhere/releases/download/v0.1.0/silverbullet-linkhere.plug.json
 ```
 
 Then run the `Plugs: Update` command and off you go!

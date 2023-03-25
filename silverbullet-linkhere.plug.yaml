@@ -1,5 +1,5 @@
 name: silverbullet-linkhere
-version: 0.1
+version: 0.1.0
 imports:
   - https://get.silverbullet.md/global.plug.json
 functions:
