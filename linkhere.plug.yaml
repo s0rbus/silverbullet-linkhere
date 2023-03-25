@@ -1,0 +1,13 @@
+name: silverbullet-linkhere
+version: 0.1
+imports:
+  - https://get.silverbullet.md/global.plug.json
+functions:
+  getRef:
+    path: "./linkhere.ts:getRef"
+    command:
+      name: "Get reference to current page/position"
+  insertRef:
+    path: "./linkhere.ts:insertRef"
+    command:
+      name: "Insert link to reference previously captured"
